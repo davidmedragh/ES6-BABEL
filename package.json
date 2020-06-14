@@ -4,7 +4,8 @@
   "description": "show how to use babel to transpile\r use of webpack\r npm init",
   "main": "script.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx webpack"
   },
   "repository": {
     "type": "git",
